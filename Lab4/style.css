@@ -1,0 +1,75 @@
+p {
+color: #E667AF;
+font-size:
+}
+
+
+
+body {
+color: #CD0074;
+font-size:
+}
+
+a {
+
+color:#85004B;
+
+text-decoration:none
+
+}
+
+
+#test {
+
+color:#EECFBA;
+
+text-decoration:none
+
+}
+
+a:hover {
+
+color:#E667AF;
+
+text-decoration: underline
+
+}
+
+
+a:visited {
+
+color:#980023;
+
+text-decoration:none
+
+}
+
+
+body{
+height: 200px;
+background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+
+
+
+body { 
+    padding-top: 10px; 
+	padding-bottom: 10px;
+padding-left: 30%;
+padding-right: 30%;
+    margin-top: 10%; 
+margin-bottom: 10%; 
+margin-left: 10%; 
+margin-right: 10%; 
+     
+    display: table; 
+    vertical-align: middle; 
+    height: 100%; 
+    text-align: center; 
+    max-width:40%;
+    min-width:40%;
+} 
+
+
+
